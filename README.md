@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋 I'm Dariusz Meissner
+
+I'm a front-end developer with big passion to create website and application based React. At the moment I am fascinated Typescript ⚡.
+
+#### 🔭 I’m currently working on ...
+- react-store-theme: ecommerce website to practices React/typescript/Redux
+
 
 <!--
 **DariuszMeissner/DariuszMeissner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
