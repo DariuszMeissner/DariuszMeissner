@@ -2,8 +2,11 @@
 
 I'm a front-end developer with big passion to create website and application based React. At the moment I am fascinated Typescript ⚡.
 
-#### 🔭 I’m currently working on ...
+#### 🔭 I’m currently working on
 - react-store-theme: ecommerce website to practices React/typescript/Redux
+
+#### 💬 My social
+[Linkedin](https://www.linkedin.com/in/dariusz-robert-meissner/)
 
 
 <!--
