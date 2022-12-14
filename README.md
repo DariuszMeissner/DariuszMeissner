@@ -3,6 +3,7 @@
 I'm a front-end developer with big passion to create website and application based React. At the moment I am fascinated Typescript ⚡.
 
 #### 🔭 I’m currently working on
+- sudoku: game for android platform(react native)
 - react-store-theme: ecommerce website to practices React/typescript/Redux
 
 #### 💬 My social
