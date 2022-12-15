@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Dariusz Meissner
 
-I'm a front-end developer with big passion to create website and application based React. At the moment I am fascinated Typescript ⚡.
+I'm a front-end developer with big passion to create website and application based on React. At the moment I am fascinated Typescript ⚡.
 
 #### 🔭 I’m currently working on
 - sudoku: game for mobile platform(react native)
