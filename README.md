@@ -4,7 +4,8 @@ I'm a front-end developer with big passion to create website and application bas
 
 #### 🔭 I’m currently working on
 - sudoku: game for mobile platform(react native)
-- react-store-theme: ecommerce website to practices React/typescript/Redux
+- react-store-theme: ecommerce website to practices React/typescript/Redux, see demo https://dariuszmeissner.github.io/React-Store-theme/
+- portfolio website
 
 #### 💬 My social
 [Linkedin](https://www.linkedin.com/in/dariusz-robert-meissner/)
