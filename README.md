@@ -11,6 +11,8 @@ I'm a front-end developer with big passion to create website and application bas
 #### 💬 My social
 [Linkedin](https://www.linkedin.com/in/dariusz-robert-meissner/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariuszmeissner&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **DariuszMeissner/DariuszMeissner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
