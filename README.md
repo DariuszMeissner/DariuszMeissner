@@ -10,9 +10,11 @@ I'm a front-end developer with big passion to create website and application bas
 
 #### 💬 My social
 [Linkedin](https://www.linkedin.com/in/dariusz-robert-meissner/)
+</br>
+</br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariuszmeissner&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariuszmeissner&show_icons=true&theme=radical) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariuszmeissner&layout=compact)
 
 
