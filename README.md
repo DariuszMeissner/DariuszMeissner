@@ -6,7 +6,7 @@ I'm a front-end developer with big passion to create website and application bas
 - portfolio website, React/Three.js <br> see https://dariuszmeissner.github.io/Portfolio/
 - react-store-theme: ecommerce website to practice React/Typescript/Redux, <br/>
   see demo https://dariuszmeissner.github.io/React-Store-theme/
-- sudoku: game for mobile platform(react native)
+
   
 
 #### 💬 My social
