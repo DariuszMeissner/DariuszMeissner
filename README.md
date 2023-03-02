@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Dariusz Meissner
 
-I'm a front-end developer with big passion to create website and application based on React. At the moment I am fascinated Typescript ⚡.
+I'm a front-end developer with a passion for creating websites and applications based on React. At the moment I am fascinated byTypescript ⚡.
 
 #### 🔭 I’m currently working on
 - portfolio website, React/Three.js <br> see https://dariuszmeissner.github.io/Portfolio/
