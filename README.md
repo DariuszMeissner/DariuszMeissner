@@ -3,7 +3,8 @@
 I'm a front-end developer with a passion for creating websites and applications based on React. At the moment I am fascinated byTypescript ⚡.
 
 #### 🔭 I’m currently working on
-- portfolio website, React/Three.js <br> see https://dariuszmeissner.github.io/Portfolio/
+- portfolio website, React/Three.js <br> see https://dariuszmeissner.github.io/Portfolio/, </br>
+- snake classic: a game for mobile, React Native/Expo 
 - react-store-theme: ecommerce website to practice React/Typescript/Redux, <br/>
   see demo https://dariuszmeissner.github.io/React-Store-theme/
 
