@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Dariusz Meissner
 
-I'm a front-end developer with a passion for creating websites and applications based on React. At the moment I am fascinated byTypescript ⚡.
+I'm a front-end developer with a passion for creating websites and applications based on React. At the moment I am fascinated by Typescript ⚡.
 
 #### 🔭 I’m currently working on
 - snake classic game: first relase https://play.google.com/store/apps/details?id=com.snakeclassicgame, </br> 
