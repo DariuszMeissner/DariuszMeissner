@@ -4,7 +4,6 @@ I'm a front-end developer with a passion for creating websites and applications 
 
 #### 🔭 I’m currently working on
 - a tool to drawing football exercise
-- nodejs server to translate signal from rtsp to hls
 
 
 
