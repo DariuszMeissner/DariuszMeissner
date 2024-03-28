@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Dariusz Meissner
 
-I'm a front-end developer with a passion for creating websites and applications based on React. At the moment I am fascinated by Typescript ⚡.
+I'm a Web Developer with a passion for creating websites and applications based on React and Node.js.
 
 #### 🔭 I’m currently working on
 - node.js: translate rtsp signal to hls, transciption google-cloud/@speech Api
