@@ -3,7 +3,7 @@
 I'm a Web Developer with a passion for creating websites and applications based on React and Node.js.
 
 #### 🔭 I’m currently working on
-- node.js: translate rtsp signal to hls, transciption google-cloud/speech Api
+- side project: game "Tanks" based on "The Battle of City" in plain JavaScript
 
 
 
