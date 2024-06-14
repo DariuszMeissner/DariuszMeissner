@@ -3,7 +3,7 @@
 I'm a Web Developer with a passion for creating websites and applications based on React and Node.js.
 
 #### 🔭 I’m currently working on
-- side project: game "Tanks" based on "The Battle of City" in plain JavaScript
+- side project: game "Tanks" based on "The Battle of City" in plain JavaScript, [Link to project](https://github.com/DariuszMeissner/Tanks-Game)
 
 
 
