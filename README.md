@@ -3,6 +3,7 @@
 I'm a Web Developer with a passion for creating websites and applications based on React and Node.js.
 
 #### 🔭 I’m currently working on
+- Memories app: application will create events by users where real-time photos from events, e.g. weddings, birthdays, will be saved.
 - side project: game "Tanks" based on "The Battle City" in plain JavaScript, [Link to project](https://github.com/DariuszMeissner/Tanks-Game)
 
 
