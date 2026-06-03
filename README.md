@@ -3,8 +3,8 @@
 I'm a Web Developer with a passion for creating websites and applications based on React and Node.js.
 
 #### 🔭 I’m currently working on
-- Football exercise studio
-- side project: game "Tanks" based on "The Battle City" in plain JavaScript, [Link to project](https://github.com/DariuszMeissner/Tanks-Game)
+- Football exercise studio, personal comercial project to draw football drill(aniamtion + static image).
+  Application during progress, on staging envrinoment.
 
 
 
