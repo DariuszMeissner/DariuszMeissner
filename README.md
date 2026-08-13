@@ -18,11 +18,6 @@ I'm a Web Developer with a passion for creating websites and applications based 
 </br>
 
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariuszmeissner&show_icons=true&theme=radical) -->
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dariuszmeissner&layout=compact)
-
-
-
 <!--
 **DariuszMeissner/DariuszMeissner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
